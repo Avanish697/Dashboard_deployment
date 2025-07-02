@@ -5,3 +5,4 @@ plotly
 sqlalchemy
 pyodbc
 gunicorn
+dash-auth
