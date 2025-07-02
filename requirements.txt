@@ -6,3 +6,4 @@ sqlalchemy
 pyodbc
 gunicorn
 dash-auth
+dash_table
